@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true"><!-- Change to your domain or IP address -->
+        <domain includeSubdomains="true">94.74.86.174</domain> <!-- Specific IP address -->
+    </domain-config>
+</network-security-config>
